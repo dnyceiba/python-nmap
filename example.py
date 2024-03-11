@@ -7,7 +7,8 @@ example.py - 2011.11.09
 Author : Alexandre Norman - norman@xael.org
 Contributor: Steve 'Ashcrow' Milner - steve@gnulinux.net
 Licence : GPL v3 or any later version
-
+Admin123
+clave: Admin123
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
